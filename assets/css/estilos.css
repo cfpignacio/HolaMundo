@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(227, 215, 219);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;
+}
+
+p,
+h1 {
+    color: #8e8727b0;
+    padding: 15px;
+    font-family: cursive
+}
+
+ul {
+    margin-bottom: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+th,
+td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+.miClase {
+color: red;
+}
+
+.estaClaseEsParaElH1 {
+    text-align: center;
+}
